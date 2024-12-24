@@ -16,7 +16,7 @@
     width="400"  
 />
 </p>
-
+<p align="center">Corrida para a Maestria: Python de 0 a 100</p>
 # Projeto EBOOK Gerado por I.A.s
 
 
