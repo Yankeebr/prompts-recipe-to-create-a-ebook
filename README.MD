@@ -40,15 +40,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Python o ebook é do nicho de programação e o subnicho é de python, o título deve ser épico e curto, e tenha uma temática de formula 1 no título, me liste 5 variações de títulos                                                        |
+| conteúdo |Faça um texto para ebook , com foco em Python, listando os principais usos em programação com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto e de facil entendimento, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A programmer in an F1 team outfit in front of a PC; A Formula 1 car with a viper livery |
 
 ## ✨ Features
 
